@@ -13,6 +13,7 @@ def parse_adslot_code(file_path):
             "publisher": ins.get("data-publisher-name"),
             "width": ins.get("data-publisher-width"),
             "height": ins.get("data-publisher-height"),
+            "id": ins.get("data-purplepatch-id"),
         }
 
         # i assumed if width >= 728 and height >= 90 then high viewability
@@ -20,8 +21,8 @@ def parse_adslot_code(file_path):
             slot["viewability"] = "High"
         else:
             slot["viewability"] = "Medium/Low"
-
-        slots.append(slot)
+        if slot["id"] == "53126d71827fcba70ff68055b9a73ca1pdt":
+            slots.append(slot)
 
     return slots
 

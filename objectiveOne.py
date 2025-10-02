@@ -2,7 +2,7 @@
 
 import os
 import json
-PURPLEPATCH_ID = "purplepatch.online"
+PURPLEPATCH_ID = "123456"
 
 def parse_ads_txt(file_path):
     purplepatch_found = False
@@ -19,14 +19,14 @@ def parse_ads_txt(file_path):
                 if PURPLEPATCH_ID in pub_id:
                     purplepatch_found = True
 
-    return purplepatch_found, list(set(competitors))
+    return purplepatch_found
 
 
 report = {}
 ads_folder = "Ads.txt"
 for fname in os.listdir(ads_folder):
     fpath = os.path.join(ads_folder, fname)
-    purplepatch_found, competitors = parse_ads_txt(fpath)
+    purplepatch_found = parse_ads_txt(fpath)
     report[fname] = {
         "purplepatch_present": purplepatch_found,
     }

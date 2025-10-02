@@ -1,0 +1,4 @@
+I assumed
+1. purple patch's seller id
+2. viewability if width >= 728 and height >= 90 then high viewability
+3. for adslot code it would have been more clear if got some example of other competitors
