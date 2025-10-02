@@ -1,7 +1,7 @@
 ## Check a publisher’s/ads.txt file and verify whether PurplePatch’s seller ID is included.
 
 import os
-
+import json
 PURPLEPATCH_ID = "purplepatch.online"
 
 def parse_ads_txt(file_path):
@@ -31,4 +31,7 @@ for fname in os.listdir(ads_folder):
         "purplepatch_present": purplepatch_found,
     }
     
-    print(fname,"------------>",report[fname])
+with open("ObjectOneReport.json", "w", encoding="utf-8") as f:
+    json.dump(report, f, indent=4, ensure_ascii=False)
+
+print("Report saved to ObjectOneReport.json")

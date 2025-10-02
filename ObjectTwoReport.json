@@ -1,0 +1,704 @@
+{
+    "Asian TV": {
+        "adslots": [
+            {
+                "publisher": "Asian TV",
+                "category": "Desktop Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "Asian TV",
+                "category": "Desktop Home Page & Article Page",
+                "width": "728",
+                "height": "90"
+            },
+            {
+                "publisher": "Asian TV",
+                "category": "Desktop Home Page & Article Page",
+                "width": "970",
+                "height": "90"
+            },
+            {
+                "publisher": "Asian TV",
+                "category": "Mobile Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "Asian TV",
+                "category": "Mobile Home Page & Article Page",
+                "width": "320",
+                "height": "100"
+            }
+        ]
+    },
+    "Banglanews24": {
+        "adslots": [
+            {
+                "publisher": "Banglanews24",
+                "category": "Desktop Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "Banglanews24",
+                "category": "Desktop Home Page & Article Page",
+                "width": "728",
+                "height": "90"
+            },
+            {
+                "publisher": "Banglanews24",
+                "category": "Desktop Home Page & Article Page",
+                "width": "970",
+                "height": "90"
+            },
+            {
+                "publisher": "Banglanews24",
+                "category": "Mobile Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "Banglanews24",
+                "category": "Mobile Home Page & Article Page",
+                "width": "320",
+                "height": "100"
+            }
+        ]
+    },
+    "BD Pratidin": {
+        "adslots": [
+            {
+                "publisher": "BD Pratidin",
+                "category": "Desktop Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "BD Pratidin",
+                "category": "Desktop Home Page & Article Page",
+                "width": "728",
+                "height": "90"
+            },
+            {
+                "publisher": "BD Pratidin",
+                "category": "Desktop Home Page & Article Page",
+                "width": "970",
+                "height": "90"
+            },
+            {
+                "publisher": "BD Pratidin",
+                "category": "Mobile Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "BD Pratidin",
+                "category": "Mobile Home Page & Article Page",
+                "width": "320",
+                "height": "100"
+            }
+        ]
+    },
+    "BDGOVTJOB": {
+        "adslots": [
+            {
+                "publisher": "BDGOVTJOB",
+                "category": "Desktop Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            }
+        ]
+    },
+    "Bd Jobs": {
+        "adslots": [
+            {
+                "publisher": "Bd Jobs",
+                "category": "Desktop Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "Bd Jobs",
+                "category": "Desktop Home Page & Article Page",
+                "width": "728",
+                "height": "90"
+            },
+            {
+                "publisher": "Bd Jobs",
+                "category": "Desktop Home Page & Article Page",
+                "width": "970",
+                "height": "90"
+            },
+            {
+                "publisher": "Bd Jobs",
+                "category": "Mobile Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "Bd Jobs",
+                "category": "Mobile Home Page & Article Page",
+                "width": "320",
+                "height": "100"
+            }
+        ]
+    },
+    "bdjobcircular24": {
+        "adslots": [
+            {
+                "publisher": "bdjobcircular24",
+                "category": "Desktop Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "bdjobcircular24",
+                "category": "Desktop Home Page & Article Page",
+                "width": "728",
+                "height": "90"
+            },
+            {
+                "publisher": "bdjobcircular24",
+                "category": "Desktop Home Page & Article Page",
+                "width": "970",
+                "height": "90"
+            },
+            {
+                "publisher": "bdjobcircular24",
+                "category": "Mobile Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "bdjobcircular24",
+                "category": "Mobile Home Page & Article Page",
+                "width": "320",
+                "height": "100"
+            }
+        ]
+    },
+    "Daily Bhorer Kagoj": {
+        "adslots": [
+            {
+                "publisher": "Daily Bhorer Kagoj",
+                "category": "Desktop Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "Daily Bhorer Kagoj",
+                "category": "Desktop Home Page & Article Page",
+                "width": "728",
+                "height": "90"
+            },
+            {
+                "publisher": "Daily Bhorer Kagoj",
+                "category": "Desktop Home Page & Article Page",
+                "width": "970",
+                "height": "90"
+            },
+            {
+                "publisher": "Daily Bhorer Kagoj",
+                "category": "Mobile Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "Daily Bhorer Kagoj",
+                "category": "Mobile Home Page & Article Page",
+                "width": "320",
+                "height": "50"
+            }
+        ]
+    },
+    "Channel 24 TV": {
+        "adslots": [
+            {
+                "publisher": "Channel 24 TV",
+                "category": "Desktop Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "Channel 24 TV",
+                "category": "Desktop Home Page & Article Page",
+                "width": "728",
+                "height": "90"
+            },
+            {
+                "publisher": "Channel 24 TV",
+                "category": "Desktop Home Page & Article Page",
+                "width": "970",
+                "height": "90"
+            },
+            {
+                "publisher": "Channel 24 TV",
+                "category": "Mobile Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "Channel 24 TV",
+                "category": "Mobile Home Page & Article Page",
+                "width": "320",
+                "height": "100"
+            }
+        ]
+    },
+    "Dainik Inqilab": {
+        "adslots": [
+            {
+                "publisher": "Dainik Inqilab",
+                "category": "Desktop Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "Dainik Inqilab",
+                "category": "Desktop Home Page & Article Page",
+                "width": "728",
+                "height": "90"
+            },
+            {
+                "publisher": "Dainik Inqilab",
+                "category": "Desktop Home Page & Article Page",
+                "width": "970",
+                "height": "90"
+            },
+            {
+                "publisher": "Dainik Inqilab",
+                "category": "Mobile Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "Dainik Inqilab",
+                "category": "Mobile Home Page & Article Page",
+                "width": "320",
+                "height": "100"
+            }
+        ]
+    },
+    "Daily Ittefaq": {
+        "adslots": [
+            {
+                "publisher": "Daily Ittefaq",
+                "category": "Desktop Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "Daily Ittefaq",
+                "category": "Desktop Home Page & Article Page",
+                "width": "728",
+                "height": "90"
+            },
+            {
+                "publisher": "Daily Ittefaq",
+                "category": "Desktop Home Page & Article Page",
+                "width": "970",
+                "height": "90"
+            },
+            {
+                "publisher": "Daily Ittefaq",
+                "category": "Mobile Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "Daily Ittefaq",
+                "category": "Mobile Home Page & Article Page",
+                "width": "320",
+                "height": "100"
+            }
+        ]
+    },
+    "Dainik Azadi": {
+        "adslots": [
+            {
+                "publisher": "Dainik Azadi",
+                "category": "Desktop Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "Dainik Azadi",
+                "category": "Desktop Home Page & Article Page",
+                "width": "728",
+                "height": "90"
+            },
+            {
+                "publisher": "Dainik Azadi",
+                "category": "Desktop Home Page & Article Page",
+                "width": "970",
+                "height": "90"
+            },
+            {
+                "publisher": "Dainik Azadi",
+                "category": "Mobile Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "Dainik Azadi",
+                "category": "Mobile Home Page & Article Page",
+                "width": "320",
+                "height": "50"
+            }
+        ]
+    },
+    "Dhaka Times24": {
+        "adslots": [
+            {
+                "publisher": "Dhaka Times24",
+                "category": "Desktop Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "Dhaka Times24",
+                "category": "Desktop Home Page & Article Page",
+                "width": "728",
+                "height": "90"
+            },
+            {
+                "publisher": "Dhaka Times24",
+                "category": "Desktop Home Page & Article Page",
+                "width": "970",
+                "height": "90"
+            },
+            {
+                "publisher": "Dhaka Times24",
+                "category": "Mobile Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "Dhaka Times24",
+                "category": "general",
+                "width": "320",
+                "height": "50"
+            }
+        ]
+    },
+    "Ekhon  TV": {
+        "adslots": [
+            {
+                "publisher": "Ekhon  TV",
+                "category": "Desktop Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "Ekhon  TV",
+                "category": "Desktop Home Page & Article Page",
+                "width": "728",
+                "height": "90"
+            },
+            {
+                "publisher": "Ekhon  TV",
+                "category": "Desktop Home Page & Article Page",
+                "width": "970",
+                "height": "90"
+            },
+            {
+                "publisher": "Ekhon  TV",
+                "category": "Mobile Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "Ekhon  TV",
+                "category": "Mobile Home Page & Article Page",
+                "width": "320",
+                "height": "50"
+            },
+            {
+                "publisher": "Ekhon  TV",
+                "category": "Desktop Home Page & Article Page",
+                "width": "250",
+                "height": "250"
+            },
+            {
+                "publisher": "Ekhon  TV",
+                "category": "Desktop Home Page & Article Page",
+                "width": "250",
+                "height": "250"
+            }
+        ]
+    },
+    "Independent Television": {
+        "adslots": [
+            {
+                "publisher": "Independent Television",
+                "category": "Desktop Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "Independent Television",
+                "category": "Desktop Home Page & Article Page",
+                "width": "728",
+                "height": "90"
+            },
+            {
+                "publisher": "Independent Television",
+                "category": "Desktop Home Page & Article Page",
+                "width": "970",
+                "height": "90"
+            },
+            {
+                "publisher": "Independent Television",
+                "category": "Mobile Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "Independent Television",
+                "category": "Mobile Home Page & Article Page",
+                "width": "320",
+                "height": "100"
+            }
+        ]
+    },
+    "Job Holder": {
+        "adslots": [
+            {
+                "publisher": "Job Holder",
+                "category": "Desktop Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "Job Holder",
+                "category": "Desktop Home Page & Article Page",
+                "width": "728",
+                "height": "90"
+            },
+            {
+                "publisher": "Job Holder",
+                "category": "Desktop Home Page & Article Page",
+                "width": "970",
+                "height": "90"
+            },
+            {
+                "publisher": "Job Holder",
+                "category": "Mobile Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "Job Holder",
+                "category": "Mobile Home Page & Article Page",
+                "width": "320",
+                "height": "50"
+            }
+        ]
+    },
+    "Kaler Kantha": {
+        "adslots": [
+            {
+                "publisher": "Kaler Kantha",
+                "category": "Desktop Home Page & Article Page ",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "Kaler Kantha",
+                "category": "Desktop Home Page & Article Page",
+                "width": "728",
+                "height": "90"
+            },
+            {
+                "publisher": "Kaler Kantha",
+                "category": "Desktop Home Page & Article Page",
+                "width": "970",
+                "height": "90"
+            },
+            {
+                "publisher": "Kaler Kantha",
+                "category": "Mobile Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "Kaler Kantha",
+                "category": "Mobile Home Page & Article Page",
+                "width": "320",
+                "height": "100"
+            }
+        ]
+    },
+    "Manab Zamin": {
+        "adslots": [
+            {
+                "publisher": "Manab Zamin",
+                "category": "Desktop Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "Manab Zamin",
+                "category": "Desktop Home Page & Article Page",
+                "width": "728",
+                "height": "90"
+            },
+            {
+                "publisher": "Manab Zamin",
+                "category": "Desktop Home Page & Article Page",
+                "width": "970",
+                "height": "90"
+            },
+            {
+                "publisher": "Manab Zamin",
+                "category": "Mobile Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "Manab Zamin",
+                "category": "Mobile Home Page & Article Page",
+                "width": "320",
+                "height": "100"
+            }
+        ]
+    },
+    "News24": {
+        "adslots": [
+            {
+                "publisher": "News24",
+                "category": "Desktop Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "News24",
+                "category": "Desktop Home Page & Article Page",
+                "width": "728",
+                "height": "90"
+            },
+            {
+                "publisher": "News24",
+                "category": "Desktop Home Page & Article Page",
+                "width": "970",
+                "height": "90"
+            },
+            {
+                "publisher": "News24",
+                "category": "Mobile Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "News24",
+                "category": "Mobile Home Page & Article Page",
+                "width": "320",
+                "height": "100"
+            }
+        ]
+    },
+    "Rtv": {
+        "adslots": [
+            {
+                "publisher": "Rtv",
+                "category": "Desktop Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "Rtv",
+                "category": "Desktop Home Page & Article Page",
+                "width": "728",
+                "height": "90"
+            },
+            {
+                "publisher": "Rtv",
+                "category": "Desktop Home Page & Article Page",
+                "width": "970",
+                "height": "90"
+            },
+            {
+                "publisher": "Rtv",
+                "category": "Mobile Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "Rtv",
+                "category": "Mobile Home Page & Article Page",
+                "width": "320",
+                "height": "100"
+            }
+        ]
+    },
+    "The Samakal": {
+        "adslots": [
+            {
+                "publisher": "The Samakal",
+                "category": "Desktop Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "The Samakal",
+                "category": "Desktop Home Page & Article Page",
+                "width": "728",
+                "height": "90"
+            },
+            {
+                "publisher": "The Samakal",
+                "category": "Desktop Home Page & Article Page",
+                "width": "970",
+                "height": "90"
+            },
+            {
+                "publisher": "The Samakal",
+                "category": "Mobile Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "The Samakal",
+                "category": "Mobile Home Page & Article Page",
+                "width": "320",
+                "height": "100"
+            }
+        ]
+    },
+    "Sampratik Deshkal": {
+        "adslots": [
+            {
+                "publisher": "Sampratik Deshkal",
+                "category": "Desktop Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "Sampratik Deshkal",
+                "category": "Desktop Home Page & Article Page",
+                "width": "728",
+                "height": "90"
+            },
+            {
+                "publisher": "Sampratik Deshkal",
+                "category": "Desktop Home Page & Article Page",
+                "width": "970",
+                "height": "90"
+            },
+            {
+                "publisher": "Sampratik Deshkal",
+                "category": "Mobile Home Page & Article Page",
+                "width": "300",
+                "height": "250"
+            },
+            {
+                "publisher": "Sampratik Deshkal",
+                "category": "Mobile Home Page & Article Page",
+                "width": "320",
+                "height": "100"
+            }
+        ]
+    }
+}
