@@ -1,0 +1,99 @@
+1. 300x250 - Desktop Home Page & Article Page
+
+
+<ins data-purplepatch-slotid="18"
+         data-purplepatch-ct0="%%CLICK_URL_UNESC%%"
+         data-purplepatch-id="53126d71827fcba70ff68055b9a73ca1pdt"
+         data-publisher-name="Daily Bhorer Kagoj"
+         data-publisher-url="https://www.bhorerkagoj.com/"
+         data-publisher-platform=""
+         data-publisher-adtype="Banner"
+         data-publisher-category="Desktop Home Page & Article Page"
+         data-publisher-position="Static"
+         data-publisher-slot="0"
+         data-publisher-width="300"
+         data-publisher-height="250"
+         data-publisher-timestamp="2025-09-17T11:35:50.518Z">
+</ins>
+<script async src="//adserver.purplepatch.online/async.js" type="text/javascript"></script>
+
+
+2. 728x90 - Desktop Home Page & Article Page
+
+
+<ins data-purplepatch-slotid="21"
+         data-purplepatch-ct0="%%CLICK_URL_UNESC%%"
+         data-purplepatch-id="53126d71827fcba70ff68055b9a73ca1pdt"
+         data-publisher-name="Daily Bhorer Kagoj"
+         data-publisher-url="https://www.bhorerkagoj.com/"
+         data-publisher-platform=""
+         data-publisher-adtype="Banner"
+         data-publisher-category="Desktop Home Page & Article Page"
+         data-publisher-position="Static"
+         data-publisher-slot="0"
+         data-publisher-width="728"
+         data-publisher-height="90"
+         data-publisher-timestamp="2025-09-17T11:36:17.591Z">
+</ins>
+<script async src="//adserver.purplepatch.online/async.js" type="text/javascript"></script>
+
+
+3. 970x90 - Desktop Home Page & Article Page
+
+
+<ins data-purplepatch-slotid="20"
+         data-purplepatch-ct0="%%CLICK_URL_UNESC%%"
+         data-purplepatch-id="53126d71827fcba70ff68055b9a73ca1pdt"
+         data-publisher-name="Daily Bhorer Kagoj"
+         data-publisher-url="https://www.bhorerkagoj.com/"
+         data-publisher-platform=""
+         data-publisher-adtype="Banner"
+         data-publisher-category="Desktop Home Page & Article Page"
+         data-publisher-position="Static"
+         data-publisher-slot="0"
+         data-publisher-width="970"
+         data-publisher-height="90"
+         data-publisher-timestamp="2025-09-17T11:36:33.704Z">
+</ins>
+<script async src="//adserver.purplepatch.online/async.js" type="text/javascript"></script>
+
+
+4. 300x250 - Mobile Home Page & Article Page
+
+
+<ins data-purplepatch-slotid="19"
+         data-purplepatch-ct0="%%CLICK_URL_UNESC%%"
+         data-purplepatch-id="53126d71827fcba70ff68055b9a73ca1pdt"
+         data-publisher-name="Daily Bhorer Kagoj"
+         data-publisher-url="https://www.bhorerkagoj.com/"
+         data-publisher-platform=""
+         data-publisher-adtype="Banner"
+         data-publisher-category="Mobile Home Page & Article Page"
+         data-publisher-position="Static"
+         data-publisher-slot="0"
+         data-publisher-width="300"
+         data-publisher-height="250"
+         data-publisher-timestamp="2025-09-17T11:36:58.481Z">
+</ins>
+<script async src="//adserver.purplepatch.online/async.js" type="text/javascript"></script>
+
+
+5. 320x50 - Mobile Home Page & Article Page
+
+<ins data-purplepatch-slotid="22"
+         data-purplepatch-ct0="%%CLICK_URL_UNESC%%"
+         data-purplepatch-id="53126d71827fcba70ff68055b9a73ca1pdt"
+         data-publisher-name="Daily Bhorer Kagoj"
+         data-publisher-url="https://www.bhorerkagoj.com/"
+         data-publisher-platform=""
+         data-publisher-adtype="Banner"
+         data-publisher-category="Mobile Home Page & Article Page"
+         data-publisher-position="Static"
+         data-publisher-slot="0"
+         data-publisher-width="320"
+         data-publisher-height="50"
+         data-publisher-timestamp="2025-09-17T11:39:41.434Z">
+</ins>
+<script async src="//adserver.purplepatch.online/async.js" type="text/javascript"></script>
+
+

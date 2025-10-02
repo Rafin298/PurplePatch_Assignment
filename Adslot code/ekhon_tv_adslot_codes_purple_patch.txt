@@ -1,0 +1,140 @@
+1. 300x250 - Desktop Home Page & Article Page
+
+
+<ins data-purplepatch-slotid="364"
+         data-purplepatch-ct0="%%CLICK_URL_UNESC%%"
+         data-purplepatch-id="53126d71827fcba70ff68055b9a73ca1pdt"
+         data-publisher-name="Ekhon  TV"
+         data-publisher-url="https://ekhon.tv/"
+         data-publisher-platform=""
+         data-publisher-adtype="Banner"
+         data-publisher-category="Desktop Home Page & Article Page"
+         data-publisher-position="Static"
+         data-publisher-slot="0"
+         data-publisher-width="300"
+         data-publisher-height="250"
+         data-publisher-timestamp="2025-09-17T11:28:39.950Z">
+</ins>
+<script async src="//adserver.purplepatch.online/async.js" type="text/javascript"></script>
+
+
+2. 728x90 - Desktop Home Page & Article Page
+
+<ins data-purplepatch-slotid="368"
+         data-purplepatch-ct0="%%CLICK_URL_UNESC%%"
+         data-purplepatch-id="53126d71827fcba70ff68055b9a73ca1pdt"
+         data-publisher-name="Ekhon  TV"
+         data-publisher-url="https://ekhon.tv/"
+         data-publisher-platform=""
+         data-publisher-adtype="Banner"
+         data-publisher-category="Desktop Home Page & Article Page"
+         data-publisher-position="Static"
+         data-publisher-slot="0"
+         data-publisher-width="728"
+         data-publisher-height="90"
+         data-publisher-timestamp="2025-09-17T11:28:55.431Z">
+</ins>
+<script async src="//adserver.purplepatch.online/async.js" type="text/javascript"></script>
+
+
+3. 970x90 - Desktop Home Page & Article Page
+
+
+<ins data-purplepatch-slotid="369"
+         data-purplepatch-ct0="%%CLICK_URL_UNESC%%"
+         data-purplepatch-id="53126d71827fcba70ff68055b9a73ca1pdt"
+         data-publisher-name="Ekhon  TV"
+         data-publisher-url="https://ekhon.tv/"
+         data-publisher-platform=""
+         data-publisher-adtype="Banner"
+         data-publisher-category="Desktop Home Page & Article Page"
+         data-publisher-position="Static"
+         data-publisher-slot="0"
+         data-publisher-width="970"
+         data-publisher-height="90"
+         data-publisher-timestamp="2025-09-17T11:29:13.567Z">
+</ins>
+<script async src="//adserver.purplepatch.online/async.js" type="text/javascript"></script>
+
+
+4. 300x250 - Mobile Home Page & Article Page
+
+
+<ins data-purplepatch-slotid="365"
+         data-purplepatch-ct0="%%CLICK_URL_UNESC%%"
+         data-purplepatch-id="53126d71827fcba70ff68055b9a73ca1pdt"
+         data-publisher-name="Ekhon  TV"
+         data-publisher-url="https://ekhon.tv/"
+         data-publisher-platform=""
+         data-publisher-adtype="Banner"
+         data-publisher-category="Mobile Home Page & Article Page"
+         data-publisher-position="Static"
+         data-publisher-slot="0"
+         data-publisher-width="300"
+         data-publisher-height="250"
+         data-publisher-timestamp="2025-09-17T11:29:32.481Z">
+</ins>
+<script async src="//adserver.purplepatch.online/async.js" type="text/javascript"></script>
+
+
+5. 320x50 - Mobile Home Page & Article Page
+
+
+<ins data-purplepatch-slotid="370"
+         data-purplepatch-ct0="%%CLICK_URL_UNESC%%"
+         data-purplepatch-id="53126d71827fcba70ff68055b9a73ca1pdt"
+         data-publisher-name="Ekhon  TV"
+         data-publisher-url="https://ekhon.tv/"
+         data-publisher-platform=""
+         data-publisher-adtype="Banner"
+         data-publisher-category="Mobile Home Page & Article Page"
+         data-publisher-position="Static"
+         data-publisher-slot="0"
+         data-publisher-width="320"
+         data-publisher-height="50"
+         data-publisher-timestamp="2025-09-17T11:31:01.390Z">
+</ins>
+<script async src="//adserver.purplepatch.online/async.js" type="text/javascript"></script>
+
+
+6. 250x250 - Desktop Home Page & Article Page
+
+
+<ins data-purplepatch-slotid="390"
+         data-purplepatch-ct0="%%CLICK_URL_UNESC%%"
+         data-purplepatch-id="53126d71827fcba70ff68055b9a73ca1pdt"
+         data-publisher-name="Ekhon  TV"
+         data-publisher-url="https://ekhon.tv/"
+         data-publisher-platform=""
+         data-publisher-adtype="Banner"
+         data-publisher-category="Desktop Home Page & Article Page"
+         data-publisher-position="Static"
+         data-publisher-slot="0"
+         data-publisher-width="250"
+         data-publisher-height="250"
+         data-publisher-timestamp="2025-09-17T11:31:31.303Z">
+</ins>
+<script async src="//adserver.purplepatch.online/async.js" type="text/javascript"></script>
+
+
+7. 250x250 - Mobile Home Page & Article Page
+
+
+<ins data-purplepatch-slotid="391"
+         data-purplepatch-ct0="%%CLICK_URL_UNESC%%"
+         data-purplepatch-id="53126d71827fcba70ff68055b9a73ca1pdt"
+         data-publisher-name="Ekhon  TV"
+         data-publisher-url="https://ekhon.tv/"
+         data-publisher-platform=""
+         data-publisher-adtype="Banner"
+         data-publisher-category="Desktop Home Page & Article Page"
+         data-publisher-position="Static"
+         data-publisher-slot="0"
+         data-publisher-width="250"
+         data-publisher-height="250"
+         data-publisher-timestamp="2025-09-17T11:32:52.036Z">
+</ins>
+<script async src="//adserver.purplepatch.online/async.js" type="text/javascript"></script>
+
+
+

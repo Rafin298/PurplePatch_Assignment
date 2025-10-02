@@ -1,0 +1,100 @@
+1. 300x250 - Desktop Home Page & Article Page
+
+
+<ins data-purplepatch-slotid="41"
+         data-purplepatch-ct0="%%CLICK_URL_UNESC%%"
+         data-purplepatch-id="53126d71827fcba70ff68055b9a73ca1pdt"
+         data-publisher-name="News24"
+         data-publisher-url="https://www.news24bd.tv/"
+         data-publisher-platform=""
+         data-publisher-adtype="Banner"
+         data-publisher-category="Desktop Home Page & Article Page"
+         data-publisher-position="Static"
+         data-publisher-slot="0"
+         data-publisher-width="300"
+         data-publisher-height="250"
+         data-publisher-timestamp="2025-09-17T09:42:04.926Z">
+</ins>
+<script async src="//adserver.purplepatch.online/async.js" type="text/javascript"></script>
+
+2. 728x90 - Desktop Home Page & Article Page
+
+
+<ins data-purplepatch-slotid="44"
+         data-purplepatch-ct0="%%CLICK_URL_UNESC%%"
+         data-purplepatch-id="53126d71827fcba70ff68055b9a73ca1pdt"
+         data-publisher-name="News24"
+         data-publisher-url="https://www.news24bd.tv/"
+         data-publisher-platform=""
+         data-publisher-adtype="Banner"
+         data-publisher-category="Desktop Home Page & Article Page"
+         data-publisher-position="Static"
+         data-publisher-slot="0"
+         data-publisher-width="728"
+         data-publisher-height="90"
+         data-publisher-timestamp="2025-09-17T09:42:52.664Z">
+</ins>
+<script async src="//adserver.purplepatch.online/async.js" type="text/javascript"></script>
+
+
+3. 970x90 - Desktop Home Page & Article Page
+
+
+<ins data-purplepatch-slotid="43"
+         data-purplepatch-ct0="%%CLICK_URL_UNESC%%"
+         data-purplepatch-id="53126d71827fcba70ff68055b9a73ca1pdt"
+         data-publisher-name="News24"
+         data-publisher-url="https://www.news24bd.tv/"
+         data-publisher-platform=""
+         data-publisher-adtype="Banner"
+         data-publisher-category="Desktop Home Page & Article Page"
+         data-publisher-position="Static"
+         data-publisher-slot="0"
+         data-publisher-width="970"
+         data-publisher-height="90"
+         data-publisher-timestamp="2025-09-17T09:43:54.292Z">
+</ins>
+<script async src="//adserver.purplepatch.online/async.js" type="text/javascript"></script>
+
+
+4. 300x250 - Mobile Home Page & Article Page
+
+
+<ins data-purplepatch-slotid="42"
+         data-purplepatch-ct0="%%CLICK_URL_UNESC%%"
+         data-purplepatch-id="53126d71827fcba70ff68055b9a73ca1pdt"
+         data-publisher-name="News24"
+         data-publisher-url="https://www.news24bd.tv/"
+         data-publisher-platform=""
+         data-publisher-adtype="Banner"
+         data-publisher-category="Mobile Home Page & Article Page"
+         data-publisher-position="Static"
+         data-publisher-slot="0"
+         data-publisher-width="300"
+         data-publisher-height="250"
+         data-publisher-timestamp="2025-09-17T09:44:44.967Z">
+</ins>
+<script async src="//adserver.purplepatch.online/async.js" type="text/javascript"></script>
+
+
+5. 320x100 - Mobile Home Page & Article Page
+
+
+<ins data-purplepatch-slotid="449"
+         data-purplepatch-ct0="%%CLICK_URL_UNESC%%"
+         data-purplepatch-id="53126d71827fcba70ff68055b9a73ca1pdt"
+         data-publisher-name="News24"
+         data-publisher-url="https://www.news24bd.tv/"
+         data-publisher-platform=""
+         data-publisher-adtype="Banner"
+         data-publisher-category="Mobile Home Page & Article Page"
+         data-publisher-position="Static"
+         data-publisher-slot="None"
+         data-publisher-width="320"
+         data-publisher-height="100"
+         data-publisher-timestamp="2025-09-17T10:00:38.275Z">
+</ins>
+<script async src="//adserver.purplepatch.online/async.js" type="text/javascript"></script>
+
+
+
