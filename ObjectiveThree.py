@@ -11,10 +11,15 @@ def parse_adslot_code(file_path):
     for ins in soup.find_all("ins"):
         slot = {
             "publisher": ins.get("data-publisher-name"),
-            "category": ins.get("data-publisher-category"),
             "width": ins.get("data-publisher-width"),
             "height": ins.get("data-publisher-height"),
         }
+
+        # i assumed if width >= 728 and height >= 90 then high viewability
+        if int(slot["width"]) >= 728 and int(slot["height"]) >= 90:
+            slot["viewability"] = "High"
+        else:
+            slot["viewability"] = "Medium/Low"
 
         slots.append(slot)
 
@@ -29,7 +34,7 @@ for fname in os.listdir(slots_folder):
     publisher_name = slots[0]["publisher"] if slots else fname
     report[publisher_name] = {"adslots": slots}
         
-with open("ObjectTwoReport.json", "w", encoding="utf-8") as f:
+with open("ObjectThreeReport.json", "w", encoding="utf-8") as f:
     json.dump(report, f, indent=4, ensure_ascii=False)
 
-print("Report saved to ObjectTwoReport.json")
+print("Report saved to ObjectThreeReport.json")

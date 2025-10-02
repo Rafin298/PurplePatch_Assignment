@@ -1,0 +1,704 @@
+{
+    "Asian TV": {
+        "adslots": [
+            {
+                "publisher": "Asian TV",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "Asian TV",
+                "width": "728",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "Asian TV",
+                "width": "970",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "Asian TV",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "Asian TV",
+                "width": "320",
+                "height": "100",
+                "viewability": "Medium/Low"
+            }
+        ]
+    },
+    "Banglanews24": {
+        "adslots": [
+            {
+                "publisher": "Banglanews24",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "Banglanews24",
+                "width": "728",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "Banglanews24",
+                "width": "970",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "Banglanews24",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "Banglanews24",
+                "width": "320",
+                "height": "100",
+                "viewability": "Medium/Low"
+            }
+        ]
+    },
+    "BD Pratidin": {
+        "adslots": [
+            {
+                "publisher": "BD Pratidin",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "BD Pratidin",
+                "width": "728",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "BD Pratidin",
+                "width": "970",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "BD Pratidin",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "BD Pratidin",
+                "width": "320",
+                "height": "100",
+                "viewability": "Medium/Low"
+            }
+        ]
+    },
+    "BDGOVTJOB": {
+        "adslots": [
+            {
+                "publisher": "BDGOVTJOB",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            }
+        ]
+    },
+    "Bd Jobs": {
+        "adslots": [
+            {
+                "publisher": "Bd Jobs",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "Bd Jobs",
+                "width": "728",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "Bd Jobs",
+                "width": "970",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "Bd Jobs",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "Bd Jobs",
+                "width": "320",
+                "height": "100",
+                "viewability": "Medium/Low"
+            }
+        ]
+    },
+    "bdjobcircular24": {
+        "adslots": [
+            {
+                "publisher": "bdjobcircular24",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "bdjobcircular24",
+                "width": "728",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "bdjobcircular24",
+                "width": "970",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "bdjobcircular24",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "bdjobcircular24",
+                "width": "320",
+                "height": "100",
+                "viewability": "Medium/Low"
+            }
+        ]
+    },
+    "Daily Bhorer Kagoj": {
+        "adslots": [
+            {
+                "publisher": "Daily Bhorer Kagoj",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "Daily Bhorer Kagoj",
+                "width": "728",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "Daily Bhorer Kagoj",
+                "width": "970",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "Daily Bhorer Kagoj",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "Daily Bhorer Kagoj",
+                "width": "320",
+                "height": "50",
+                "viewability": "Medium/Low"
+            }
+        ]
+    },
+    "Channel 24 TV": {
+        "adslots": [
+            {
+                "publisher": "Channel 24 TV",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "Channel 24 TV",
+                "width": "728",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "Channel 24 TV",
+                "width": "970",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "Channel 24 TV",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "Channel 24 TV",
+                "width": "320",
+                "height": "100",
+                "viewability": "Medium/Low"
+            }
+        ]
+    },
+    "Dainik Inqilab": {
+        "adslots": [
+            {
+                "publisher": "Dainik Inqilab",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "Dainik Inqilab",
+                "width": "728",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "Dainik Inqilab",
+                "width": "970",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "Dainik Inqilab",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "Dainik Inqilab",
+                "width": "320",
+                "height": "100",
+                "viewability": "Medium/Low"
+            }
+        ]
+    },
+    "Daily Ittefaq": {
+        "adslots": [
+            {
+                "publisher": "Daily Ittefaq",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "Daily Ittefaq",
+                "width": "728",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "Daily Ittefaq",
+                "width": "970",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "Daily Ittefaq",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "Daily Ittefaq",
+                "width": "320",
+                "height": "100",
+                "viewability": "Medium/Low"
+            }
+        ]
+    },
+    "Dainik Azadi": {
+        "adslots": [
+            {
+                "publisher": "Dainik Azadi",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "Dainik Azadi",
+                "width": "728",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "Dainik Azadi",
+                "width": "970",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "Dainik Azadi",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "Dainik Azadi",
+                "width": "320",
+                "height": "50",
+                "viewability": "Medium/Low"
+            }
+        ]
+    },
+    "Dhaka Times24": {
+        "adslots": [
+            {
+                "publisher": "Dhaka Times24",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "Dhaka Times24",
+                "width": "728",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "Dhaka Times24",
+                "width": "970",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "Dhaka Times24",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "Dhaka Times24",
+                "width": "320",
+                "height": "50",
+                "viewability": "Medium/Low"
+            }
+        ]
+    },
+    "Ekhon  TV": {
+        "adslots": [
+            {
+                "publisher": "Ekhon  TV",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "Ekhon  TV",
+                "width": "728",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "Ekhon  TV",
+                "width": "970",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "Ekhon  TV",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "Ekhon  TV",
+                "width": "320",
+                "height": "50",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "Ekhon  TV",
+                "width": "250",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "Ekhon  TV",
+                "width": "250",
+                "height": "250",
+                "viewability": "Medium/Low"
+            }
+        ]
+    },
+    "Independent Television": {
+        "adslots": [
+            {
+                "publisher": "Independent Television",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "Independent Television",
+                "width": "728",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "Independent Television",
+                "width": "970",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "Independent Television",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "Independent Television",
+                "width": "320",
+                "height": "100",
+                "viewability": "Medium/Low"
+            }
+        ]
+    },
+    "Job Holder": {
+        "adslots": [
+            {
+                "publisher": "Job Holder",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "Job Holder",
+                "width": "728",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "Job Holder",
+                "width": "970",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "Job Holder",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "Job Holder",
+                "width": "320",
+                "height": "50",
+                "viewability": "Medium/Low"
+            }
+        ]
+    },
+    "Kaler Kantha": {
+        "adslots": [
+            {
+                "publisher": "Kaler Kantha",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "Kaler Kantha",
+                "width": "728",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "Kaler Kantha",
+                "width": "970",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "Kaler Kantha",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "Kaler Kantha",
+                "width": "320",
+                "height": "100",
+                "viewability": "Medium/Low"
+            }
+        ]
+    },
+    "Manab Zamin": {
+        "adslots": [
+            {
+                "publisher": "Manab Zamin",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "Manab Zamin",
+                "width": "728",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "Manab Zamin",
+                "width": "970",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "Manab Zamin",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "Manab Zamin",
+                "width": "320",
+                "height": "100",
+                "viewability": "Medium/Low"
+            }
+        ]
+    },
+    "News24": {
+        "adslots": [
+            {
+                "publisher": "News24",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "News24",
+                "width": "728",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "News24",
+                "width": "970",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "News24",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "News24",
+                "width": "320",
+                "height": "100",
+                "viewability": "Medium/Low"
+            }
+        ]
+    },
+    "Rtv": {
+        "adslots": [
+            {
+                "publisher": "Rtv",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "Rtv",
+                "width": "728",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "Rtv",
+                "width": "970",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "Rtv",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "Rtv",
+                "width": "320",
+                "height": "100",
+                "viewability": "Medium/Low"
+            }
+        ]
+    },
+    "The Samakal": {
+        "adslots": [
+            {
+                "publisher": "The Samakal",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "The Samakal",
+                "width": "728",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "The Samakal",
+                "width": "970",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "The Samakal",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "The Samakal",
+                "width": "320",
+                "height": "100",
+                "viewability": "Medium/Low"
+            }
+        ]
+    },
+    "Sampratik Deshkal": {
+        "adslots": [
+            {
+                "publisher": "Sampratik Deshkal",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "Sampratik Deshkal",
+                "width": "728",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "Sampratik Deshkal",
+                "width": "970",
+                "height": "90",
+                "viewability": "High"
+            },
+            {
+                "publisher": "Sampratik Deshkal",
+                "width": "300",
+                "height": "250",
+                "viewability": "Medium/Low"
+            },
+            {
+                "publisher": "Sampratik Deshkal",
+                "width": "320",
+                "height": "100",
+                "viewability": "Medium/Low"
+            }
+        ]
+    }
+}
